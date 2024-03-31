@@ -1,0 +1,14 @@
+
+		torrc
+HiddenServiceDir C:\Users\ 自分で名前入れる \Desktop\Tor Browser\Browser\TorBrowser\Data\Tor\hidden_service/
+HiddenServicePort 80 127.0.0.1:80
+
+
+
+
+		Apache24
+
+ServerName hostname
+
+
+
